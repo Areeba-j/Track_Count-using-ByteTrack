@@ -1,4 +1,4 @@
-# YOLOv8 and ByteTrack Object Detection and Counting 💻
+# YOLOv8 and ByteTrack Object Detection, Tracking and Counting 💻
 
 Welcome to this project's repository! This project focuses on efficient object detection, tracking, and counting using YOLOv8 for initial detection and ByteTrack from Supervision for precise object tracking. I implemented a robust system where objects are assigned specific tracking IDs and tracked using ByteTrack, enabling accurate counting with Supervision's line zone feature. The system incorporates in and out lanes for two-way traffic, ensuring comprehensive object counting capabilities.
 
